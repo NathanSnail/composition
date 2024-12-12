@@ -5,7 +5,7 @@
 <math> <slash> <E>                            : "∄"
 <math> <c>                                    : "∈"
 <math> <slash> <c>                            : "∉"
-<equal> <slash> <greater>                     : "⇏"
+<Multi_key> <equal> <slash> <greater>         : "⇏"
 <math> <C>                                    : "ℂ"
 <math> <N>                                    : "ℕ"
 <math> <Q>                                    : "ℚ"
