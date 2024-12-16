@@ -4,6 +4,8 @@
 <Multi_key> <parenleft> <parenleft>           : "⊃"
 <Multi_key> <parenright> <underscore>         : "⊇"
 <Multi_key> <parenleft> <underscore>          : "⊆"
+<Multi_key> <parenright> <equal>              : "⊇"
+<Multi_key> <parenleft> <equal>               : "⊆"
 <math> <A>                                    : "∀"
 <math> <E>                                    : "∃"
 <math> <slash> <E>                            : "∄"
