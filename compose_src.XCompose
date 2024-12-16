@@ -1,5 +1,9 @@
 #custom
 
+<Multi_key> <parenright> <parenright>         : "⊃"
+<Multi_key> <parenleft> <parenleft>           : "⊃"
+<Multi_key> <parenright> <underscore>         : "⊇"
+<Multi_key> <parenleft> <underscore>          : "⊆"
 <math> <A>                                    : "∀"
 <math> <E>                                    : "∃"
 <math> <slash> <E>                            : "∄"
