@@ -74,7 +74,7 @@
 <Multi_key> <period> <period>		: "…"	ellipsis # HORIZONTAL ELLIPSIS
 <Multi_key> <exclam> <exclam>		: "¡"	exclamdown # INVERTED EXCLAMATION MARK
 <Multi_key> <plus> <minus>		: "±"	plusminus # PLUS-MINUS SIGN
-<Multi_key> <minus> <plus>		: "∓"	minusplus # Custom
+<Multi_key> <minus> <plus>		: "∓"	# Custom
 <Multi_key> <question> <question>	: "¿"	questiondown # INVERTED QUESTION MARK
 <Multi_key> <question> <exclam>		: "‽"
 <Multi_key> <exclam> <question>		: "⸘"
