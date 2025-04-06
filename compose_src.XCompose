@@ -6,6 +6,8 @@
 <Multi_key> <parenleft> <underscore>          : "⊆"
 <Multi_key> <parenright> <equal>              : "⊇"
 <Multi_key> <parenleft> <equal>               : "⊆"
+<math> <d>                                    : "∂"
+<math> <D>                                    : "∇"
 <math> <U>                                    : "∪"
 <math> <asciicircum>                          : "∩"
 <math> <A>                                    : "∀"
