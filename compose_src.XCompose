@@ -17,6 +17,7 @@
 <math> <slash> <!c>                           : "∉"
 <Multi_key> <equal> <slash> <greater>         : "⇏"
 <Multi_key> <bar> <minus>                     : "⊢"
+<Multi_key> <underscore> <bar>                : "⊥"
 <math> <C>                                    : "ℂ"
 <math> <N>                                    : "ℕ"
 <math> <Q>                                    : "ℚ"
