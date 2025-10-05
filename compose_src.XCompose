@@ -73,6 +73,7 @@
 <greek> <z>                                   : "ζ"
 <greek> <greek>                               : "µ"
 <greek> <space>                               : "µ"
+<Multi_key> <slash> <slash>                   : "⁄"
 #builtin (ish)
 
 <Multi_key> <o> <o>			: "°"	degree # DEGREE SIGN
