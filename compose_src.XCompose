@@ -74,6 +74,8 @@
 <greek> <greek>                               : "µ"
 <greek> <space>                               : "µ"
 <Multi_key> <slash> <slash>                   : "⁄"
+<math> <n>                                    : "ℵ"
+<math> <i>                                    : "∫"
 #builtin (ish)
 
 <Multi_key> <o> <o>			: "°"	degree # DEGREE SIGN
