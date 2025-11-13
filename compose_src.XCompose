@@ -74,6 +74,7 @@
 <greek> <greek>                               : "µ"
 <greek> <space>                               : "µ"
 <Multi_key> <slash> <slash>                   : "⁄"
+<math> <slash>                                : "√"
 <math> <n>                                    : "ℵ"
 <math> <i>                                    : "∫"
 #builtin (ish)
